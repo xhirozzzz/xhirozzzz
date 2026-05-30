@@ -43,9 +43,13 @@ When I am not debugging business rules, I am probably somewhere in Lavender Town
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xhirozzzz&show_icons=true&theme=tokyonight)
+<a href="https://github.com/xhirozzzz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xhirozzzz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xhirozzzz&layout=compact&theme=tokyonight)
+<a href="https://github.com/xhirozzzz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhirozzzz&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
 
 ---
 
