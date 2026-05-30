@@ -41,15 +41,12 @@ When I am not debugging business rules, I am probably somewhere in Lavender Town
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Current Focus
 
-<a href="https://github.com/xhirozzzz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xhirozzzz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-</a>
-
-<a href="https://github.com/xhirozzzz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhirozzzz&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
+- Building ERP integrations and backend automations
+- Creating reliable SQL solutions for business processes
+- Working with Java, Oracle, SQL Server, APIs and n8n
+- Organizing public repositories with useful examples and technical notes
 
 ---
 
